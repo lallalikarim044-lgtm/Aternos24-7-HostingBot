@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "ItzRealMe",
   "bot-account": {
     "username": "imgonnacream",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
-    "version": "",
+    "ip": "Unstable-dz.aternos.me",
+    "port": 19213,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Yo",
+        "Koko Is The Goat!",
+        "Afk"
       ]
     },
     "chat-log": true,
